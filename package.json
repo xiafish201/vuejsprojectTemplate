@@ -1,7 +1,7 @@
 {
-  "name": "DOS",
+  "name": "vue",
   "version": "1.0.0",
-  "description": "jxdd运营管理系统",
+  "description": "single page application",
   "author": "lxm",
   "private": true,
   "scripts": {

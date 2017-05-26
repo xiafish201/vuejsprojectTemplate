@@ -21,7 +21,7 @@ module.exports = {
     },
     dev: {
         env: require('./dev.env'),
-        port: 8095,
+        port: 8080,
         hostname: 'localhost',
         proxyTable: {
       // '/': {

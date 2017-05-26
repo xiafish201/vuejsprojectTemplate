@@ -12,7 +12,7 @@ const API_VERSION = '/v1'
 const ACC_API_VERSION = '/v10'
 
 export const domain = (process.env.NODE_ENV === 'production') ?
-  'http://www.manager.com' : 'http://localhost:8095'
+  'http://www.manager.com' : 'http://localhost:8080'
 // ? 'http://localhost' : 'http://localhost:8080';
 export const variable = '/Menu'
 export const cookieDomain = (process.env.NODE_ENV === 'production') ?
