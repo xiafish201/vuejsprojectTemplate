@@ -10,30 +10,6 @@
 ### 6.运行npm run build 编译生成dist
 ### 7.运行npm run dev 进行调试默认端口8080可以自己修改，在./config/index.js里面
 
-
-##工程目录说明
-
->─build
->─config
->─doc
->─src
->---api
->---static
->---css
->-------fonts
->-------img
->-------js
->---common
->---component
->---directive
->---filter
->---library
->---store
->---view 
->---test
->-------e2e
->-------unit
-
 更新说明：
 1.由多页面应用，修改为单页面应用
 2.所有的切换都在一个页面内进行，有些详情页或者特殊需要的，可以直接跳页打开，但是要自己控制头部底部
