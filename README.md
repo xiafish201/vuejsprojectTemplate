@@ -29,31 +29,7 @@
 >  >─filter
 >  >─library
 >  >─store
->  >─view
->   >─demo
->		>  >─bizcomponent
->		>  >      Demo.vue
->		>  >
->		>  >─index
->		>      >  app.vue
->		>      >  index.html
->		>      >─index.js
->		>─order
->		>  >─bizcomponent
->		>  >─index
->		>      >  app.vue
->		>      >  index.html
->		>      >─index.js
->		>─home
->		    >─bizcomponent
->		    >      directiveSelect.vue
->		    >      SeeSort.vue
->		    >
->		    >─index //这个文件夹名称对应的就是页面名称，会在dist目录下生成index.html文件
->		        >  app.vue
->		        >  index.html
->		        >─index.js
->		        
+>  >─view   
 >─test
       >─e2e
       >─unit
