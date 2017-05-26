@@ -1,0 +1,237 @@
+{
+  "error_code": 10000,
+  "error_message": "服务调用成功",
+  "result_data": [
+    {
+      "attribute_id": 37,
+      "attribute_name": "qttest6",
+      "attribute_type_id": 6,
+      "attribute_type_name": "日期时间控件",
+      "is_custom": "0",
+      "add_time": 1488959212,
+      "update_time": 1488959212,
+      "attribute_value": "{\"pinpoint_start_time\":\"2017-01\",\"pinpoint_end_time\":\"2019-01\"}",
+      "attribute_value_style": "{\"format\":0,\"pinpoint\":2,\"pinpoint_type\":2}"
+    },
+    {
+      "attribute_id": 36,
+      "attribute_name": "qttest6",
+      "attribute_type_id": 6,
+      "attribute_type_name": "日期时间控件",
+      "is_custom": "0",
+      "add_time": 1488959092,
+      "update_time": 1488959092,
+      "attribute_value": "{\"pinpoint_time\":\"2017-01\"}",
+      "attribute_value_style": "{\"format\":0,\"pinpoint\":2,\"pinpoint_type\":1}"
+    },
+    {
+      "attribute_id": 35,
+      "attribute_name": "qttest6",
+      "attribute_type_id": 6,
+      "attribute_type_name": "日期时间控件",
+      "is_custom": "0",
+      "add_time": 1488958941,
+      "update_time": 1488958941,
+      "attribute_value_style": "{\"format\":0,\"pinpoint\":2,\"pinpoint_type\":0}"
+    },
+    {
+      "attribute_id": 34,
+      "attribute_name": "qttest5",
+      "attribute_type_id": 5,
+      "attribute_type_name": "地区选择框",
+      "is_custom": "0",
+      "add_time": 1488958038,
+      "update_time": 1488958038,
+      "attribute_value": "{\"pinpoint_content\":[{\"id\":\"1\",\"country\":\"中国\", \"provinces\":[{\"id\":\"11\",\"province\":\"北京\",\"citys\":[{\"id\":\"111\",\"city\":\"beijing\",\"countys\":[{\"id\":\"1111\",\"county\":\"海淀\"},{\"id\":\"1111\",\"county\":\"朝阳\"}]}]}]}]}",
+      "attribute_value_style": "{\"pinpoint\":\"0-1-2-3\"}"
+    },
+    {
+      "attribute_id": 33,
+      "attribute_name": "qttest4",
+      "attribute_type_id": 4,
+      "attribute_type_name": "复选框",
+      "is_custom": "0",
+      "add_time": 1488957124,
+      "update_time": 1488957124,
+      "attribute_value": "{\"check_box\":\"红,黄,蓝\"}"
+    },
+    {
+      "attribute_id": 32,
+      "attribute_name": "qttest3",
+      "attribute_type_id": 3,
+      "attribute_type_name": "多行文本框",
+      "is_custom": "0",
+      "add_time": 1488957105,
+      "update_time": 1488957105,
+      "attribute_value_style": "{\"content_length\":100}"
+    },
+    {
+      "attribute_id": 30,
+      "attribute_name": "qttest2",
+      "attribute_type_id": 2,
+      "attribute_type_name": "图片",
+      "is_custom": "0",
+      "add_time": 1488957021,
+      "update_time": 1488957021,
+      "attribute_value_style": "{\"height_advice\":300,\"width_advice\":300,\"size_limt\":20,\"type\":\"jpeg/jpg,png,gif\",\"number_limit\":5,\"display_type\":1}"
+    },
+    {
+      "attribute_id": 29,
+      "attribute_name": "qttest2",
+      "attribute_type_id": 2,
+      "attribute_type_name": "图片",
+      "is_custom": "0",
+      "add_time": 1488957008,
+      "update_time": 1488957008,
+      "attribute_value": "{\"image_name\":\"qinteng.jpg\",\"image_url\":\"http://192.168.2.67/qinteng.jpg\"}",
+      "attribute_value_style": "{\"height_advice\":300,\"width_advice\":300,\"size_limt\":20,\"type\":\"jpeg/jpg,png,gif\",\"number_limit\":5,\"display_type\":1}"
+    },
+    {
+      "attribute_id": 26,
+      "attribute_name": "qttest1",
+      "attribute_type_id": 1,
+      "attribute_type_name": "下拉列表",
+      "is_custom": "0",
+      "add_time": 1488956919,
+      "update_time": 1488956919,
+      "attribute_value": "{\"drop_drop_list\":\"a,b,c\"}"
+    },
+    {
+      "attribute_id": 25,
+      "attribute_name": "qttest0",
+      "attribute_type_id": 0,
+      "attribute_type_name": "文本输入框",
+      "is_custom": "0",
+      "add_time": 1488955871,
+      "update_time": 1488955871,
+      "attribute_value_style": "{\"content_length\":10}"
+    },
+    {
+      "attribute_id": 13,
+      "attribute_name": "abcdkdiel",
+      "attribute_type_id": 4,
+      "attribute_type_name": "文本行",
+      "is_custom": "0",
+      "add_time": 1488423857,
+      "update_time": 1488423857,
+      "attribute_value": "{\"pinpoint_content\":[{\"id\":\"1\",\"country\":\"中国\", \"provinces\":[{\"id\":\"11\",\"province\":\"北京\",\"citys\":[{\"id\":\"111\",\"city\":\"beijing\",\"countys\":[{\"id\":\"1111\",\"county\":\"海淀\"},{\"id\":\"1111\",\"county\":\"朝阳\"}]}]}]}]}",
+      "attribute_value_style": "dasfa"
+    },
+    {
+      "attribute_id": 3,
+      "attribute_name": "test123",
+      "attribute_type_id": 4,
+      "attribute_type_name": "文本行",
+      "is_custom": "1",
+      "update_time": 1488423600,
+      "attribute_value": "this is text"
+    },
+    {
+      "attribute_id": 4,
+      "attribute_name": "test-xd",
+      "attribute_type_id": 6,
+      "attribute_type_name": "下拉列表",
+      "is_custom": "1",
+      "attribute_value": "a,b,c,d,e",
+      "attribute_value_style": "dasfa"
+    },
+    {
+      "attribute_id": 5,
+      "attribute_name": "test-xd",
+      "attribute_type_id": 6,
+      "attribute_type_name": "下拉列表",
+      "is_custom": "0",
+      "attribute_value_style": "dasfa"
+    },
+    {
+      "attribute_id": 6,
+      "attribute_name": "test-xd",
+      "attribute_type_id": 6,
+      "attribute_type_name": "下拉列表",
+      "is_custom": "0",
+      "attribute_value": "a,b,c,d,e",
+      "attribute_value_style": "dasfa"
+    },
+    {
+      "attribute_id": 7,
+      "attribute_name": "test-xd",
+      "attribute_type_id": 1,
+      "attribute_type_name": "下拉列表",
+      "is_custom": "0",
+      "attribute_value": "a,b,c,d,e"
+    },
+    {
+      "attribute_id": 8,
+      "attribute_name": "test-xd",
+      "attribute_type_id": 2,
+      "attribute_type_name": "下拉列表",
+      "is_custom": "0",
+      "attribute_value": "a,b,c,d,e",
+      "attribute_value_style": "dasfa"
+    },
+    {
+      "attribute_id": 9,
+      "attribute_name": "test-xd",
+      "attribute_type_id": 3,
+      "attribute_type_name": "文本行",
+      "is_custom": "0",
+      "attribute_value": "abcd",
+      "attribute_value_style": "dasfa"
+    },
+    {
+      "attribute_id": 10,
+      "attribute_name": "test-xd",
+      "attribute_type_id": 3,
+      "attribute_type_name": "文本行",
+      "is_custom": "0",
+      "attribute_value": "[\"name\",\"age\"]",
+      "attribute_value_style": "dasfa"
+    },
+    {
+      "attribute_id": 11,
+      "attribute_name": "test-xd",
+      "attribute_type_id": 3,
+      "attribute_type_name": "文本行",
+      "is_custom": "0",
+      "attribute_value": "{\"pinpoint_content\":[{\"id\":\"1\",\"country\":\"中国\", \"provinces\":[{\"id\":\"11\",\"province\":\"北京\",\"citys\":[{\"id\":\"111\",\"city\":\"beijing\",\"countys\":[{\"id\":\"1111\",\"county\":\"海淀\"},{\"id\":\"1111\",\"county\":\"朝阳\"}]}]}]}]}",
+      "attribute_value_style": "dasfa"
+    },
+    {
+      "attribute_id": 12,
+      "attribute_name": "test-xd",
+      "attribute_type_id": 4,
+      "attribute_type_name": "文本行",
+      "is_custom": "0",
+      "attribute_value": "{\"pinpoint_content\":[{\"id\":\"1\",\"country\":\"中国\", \"provinces\":[{\"id\":\"11\",\"province\":\"北京\",\"citys\":[{\"id\":\"111\",\"city\":\"beijing\",\"countys\":[{\"id\":\"1111\",\"county\":\"海淀\"},{\"id\":\"1111\",\"county\":\"朝阳\"}]}]}]}]}",
+      "attribute_value_style": "dasfa"
+    },
+    {
+      "attribute_id": 14,
+      "attribute_name": "attr-test-yp-text",
+      "attribute_type_id": 0,
+      "attribute_type_name": "文本输入框",
+      "is_custom": "0",
+      "attribute_value": "textValue",
+      "attribute_value_style": "{\"content_length\":100}"
+    },
+    {
+      "attribute_id": 15,
+      "attribute_name": "attr-test-yp-select",
+      "attribute_type_id": 1,
+      "attribute_type_name": "下拉列表",
+      "is_custom": "0",
+      "attribute_value": "v1,v2,v3",
+      "attribute_value_style": ""
+    },
+    {
+      "attribute_id": 16,
+      "attribute_name": "attr-test-yp-img",
+      "attribute_type_id": 2,
+      "attribute_type_name": "图片",
+      "is_custom": "0",
+      "attribute_value": "{\"image_name\":\"aa.jpg\",\"image_url\":\"http://192.168.2.66/aa.jpg\"}",
+      "attribute_value_style": "{\"number_limit\":5}"
+    }
+  ],
+  "total_row_number": 24
+}

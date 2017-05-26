@@ -1,0 +1,34 @@
+{
+  "error_code": 10000,
+  "error_message": "服务调用成功",
+  "result_data": [
+    {
+      "value": "0",
+      "description": "文本输入框"
+    },
+    {
+	    "value": "1",
+	    "description": "下拉列表"
+	  },
+	    {
+		    "value": "2",
+		    "description": "图片"
+		  },
+		    {
+			    "value": "3",
+			    "description": "多行文本框"
+			  },
+			    {
+				    "value": "4",
+				    "description": "复选框"
+				  },
+				    {
+					    "value": "5",
+					    "description": "地区选择框"
+					  },
+					    {
+						    "value": "6",
+						    "description": "日期时间控件"
+						  }
+  ]
+}
