@@ -17,22 +17,22 @@
 >─config
 >─doc
 >─src
->  >─api
->  >─static
->  >  >─css
->  >  >─fonts
->  >  >─img
->  >  >─js
->  >─common
->  >─component
->  >─directive
->  >─filter
->  >─library
->  >─store
->  >─view   
->─test
-      >─e2e
-      >─unit
+>---api
+>---static
+>---css
+>-------fonts
+>-------img
+>-------js
+>---common
+>---component
+>---directive
+>---filter
+>---library
+>---store
+>---view 
+>---test
+>-------e2e
+>-------unit
 
 更新说明：
 1.由多页面应用，修改为单页面应用
