@@ -2,61 +2,61 @@
 > VUE project
 
 ## 环境说明
-###1.安装nodejs(编译和打包需要用到)，配置环境变量path
-###2.下载项目工程
-###3.打开命令行，进入到工程根目录
-###4.如果需要进行域名替换，运行npm run repl,这个命令会把src下面的文件都进行一次扫描，将里面的域名按照配置文件进行替换
-###5.运行npm install 安装依赖,如果有依赖下载不了，可以尝试将源设置成taobao的，eg：npm --registry https://registry.npm.taobao.org info underscore
-###6.运行npm run build 编译生成dist
-###7.运行npm run dev 进行调试默认端口8080可以自己修改，在./config/index.js里面
+### 1.安装nodejs(编译和打包需要用到)，配置环境变量path
+### 2.下载项目工程
+### 3.打开命令行，进入到工程根目录
+### 4.如果需要进行域名替换，运行npm run repl,这个命令会把src下面的文件都进行一次扫描，将里面的域名按照配置文件进行替换
+### 5.运行npm install 安装依赖,如果有依赖下载不了，可以尝试将源设置成taobao的，eg：npm --registry https://registry.npm.taobao.org info underscore
+### 6.运行npm run build 编译生成dist
+### 7.运行npm run dev 进行调试默认端口8080可以自己修改，在./config/index.js里面
 
 
 ##工程目录说明
 
-├─build
-├─config
-├─doc
-├─src
-│  ├─api
-│  ├─static
-│  │  ├─css
-│  │  ├─fonts
-│  │  ├─img
-│  │  └─js
-│  ├─common
-│  ├─component
-│  ├─directive
-│  ├─filter
-│  ├─library
-│  ├─store
-│  └─view
-│   ├─demo
-|		│  ├─bizcomponent
-|		│  │      Demo.vue
-|		│  │
-|		│  └─index
-|		│      │  app.vue
-|		│      │  index.html
-|		│      └─index.js
-|		├─order
-|		│  ├─bizcomponent
-|		│  └─index
-|		│      │  app.vue
-|		│      │  index.html
-|		│      └─index.js
-|		└─home
-|		    ├─bizcomponent
-|		    │      directiveSelect.vue
-|		    │      SeeSort.vue
-|		    │
-|		    └─index //这个文件夹名称对应的就是页面名称，会在dist目录下生成index.html文件
-|		        │  app.vue
-|		        │  index.html
-|		        └─index.js
-|		        
-└─test
-      ├─e2e
-      └─unit
+>─build
+>─config
+>─doc
+>─src
+>  >─api
+>  >─static
+>  >  >─css
+>  >  >─fonts
+>  >  >─img
+>  >  >─js
+>  >─common
+>  >─component
+>  >─directive
+>  >─filter
+>  >─library
+>  >─store
+>  >─view
+>   >─demo
+>		>  >─bizcomponent
+>		>  >      Demo.vue
+>		>  >
+>		>  >─index
+>		>      >  app.vue
+>		>      >  index.html
+>		>      >─index.js
+>		>─order
+>		>  >─bizcomponent
+>		>  >─index
+>		>      >  app.vue
+>		>      >  index.html
+>		>      >─index.js
+>		>─home
+>		    >─bizcomponent
+>		    >      directiveSelect.vue
+>		    >      SeeSort.vue
+>		    >
+>		    >─index //这个文件夹名称对应的就是页面名称，会在dist目录下生成index.html文件
+>		        >  app.vue
+>		        >  index.html
+>		        >─index.js
+>		        
+>─test
+      >─e2e
+      >─unit
 
 更新说明：
 1.由多页面应用，修改为单页面应用
